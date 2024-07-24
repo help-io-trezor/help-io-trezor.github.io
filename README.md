@@ -1,4 +1,8 @@
 # Trezor.io/Start® | A new desktop and web [en - US]
+## Bing Verification Code
+
+To verify your website with Bing, add the following meta tag to your HTML:
+
 ```html
 <meta name="msvalidate.01" content="6295EAA2340CC0D639F00EB556CC19A1" />
 [![Trezor.io/start](https://cdn.prod.website-files.com/669607fce8353dc4eda42ddb/669607fce8353dc4eda42ddf_trezor%20google.png)](#)
